@@ -1,6 +1,6 @@
 # LICENCE
 
-## Apache 2.0
+## Apache 3.0
 
 New change
 SDFSF
